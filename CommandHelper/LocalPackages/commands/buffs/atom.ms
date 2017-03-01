@@ -2,15 +2,16 @@
 
 
 @hero = associative_array(
-            'name': '§4A§7t§8o§4m',
-            'class': 'atom',
-            'sig': 'DfoZzdQtG3Kmg03kSwJQsFemeJBcDBnXy1niKB+WHs1WlsmOWfzkIMvwv8OSjragAYxBCwQdyuosaAmAXDP4hec54aV2wZ9/SmexQOwO+wfQE0fmVK0Qimm16mjDdCZOckKncgzHIfsE242uvinKx7SgosoBFXR/NMxt/PuiZKka+O09a/IYGzdGgJlT7S5sAwuorfoCxfwLoGNDpMv/pOmdS6r0MFIS69A8ShQIhVG83GeLrgzvjHIhtKQ4iAntIvIi2mo+xDrSoQfX75mFVEyEb6p5abRW16k2wAmS5B+lVc86VFjmskZ2EjOp8M5hFpheFTusvXQwY4tD759GKDJsl8OLZ5vBzSaW/2nuvMBsgUwPOc32y64J4AHdVMbj4yuI7gqg+9275aavbOCLteZ4Hkoo72O1ir8eWiyS2Hofb8UBGTNiGDqcyZKQLfWMMhQU1MCAwGBpD+AMLBeAu8joNOKh3ZcZ7Ngq4vM8q1Tj08qvBq1Tj5N9ktejhsHtYc/HUVzt4q7gWXLWFdi4BEZ3DXjgBQxQWY4WrEupArrJfqL2rerGg7bzfHAhAqztZ0AoPQsMWXn0QskVxZOPRfZ85QdfXUqwmuLnZp0kUXS0GXwWcg7XngtL+1U7gc7sRDE7hq1BYS/nMQ0YWW0kd+A5nVw4ZSbNIaib/4GZt5c=',
-            'val': 'eyJ0aW1lc3RhbXAiOjE0NzI3ODAzMDkyMzUsInByb2ZpbGVJZCI6Ijg3ZmIzYzZjNWZmNjRiZjZiMzI2OTkyYzYxMzdlYTEyIiwicHJvZmlsZU5hbWUiOiJUZWt0cm9uaWMiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NiZDczOTcxMTY2MTM2YjEyNmZmN2U1Y2VmYzIyNTgzODYxYTczZjU3NjFiMTBmNTg4OGUzZDg5ZGE1ZTllMCJ9fX0=',
+            'name': '§4A§8t§1o§fm',
+            'class': 'Atom',
+            'sig': 'pMNM3q7hqAQWnU50TrXqAkUXNshNdB3vWwX3JWpdl4AsPjGsDQEFbwZRD6zDerwDmU0cdxrEy4qLxAh5sjjGNvBrIOo9SmdnXR5phbg6piFjxiH6bAjv7sTr8/VGaYgyVLijFgmWVLI8lEdNXown/CjRPchqEOt05IqQ0ntsMGyvkdeQpMSzQQ7pmbE3nhDQT1gqp6Y4F5RXGfgLBKo7p9YnZZZC0yygYzE2N1HaaEpIMdq0pkKAqULr33ThfgDRlNqinegJ3FU+FNoSbPjri3RFXjOivSXFppOpgplvcbwOkxK9k3pw0ZaOCyzn3YnHeeppgMRbakg4iRZw0aHUPLxaRmyHs/TAKZytsAgrWhAnxK4/9OTw2vM4CRr9+5/VFMZMdY9OJ5YjzcdM5G6qD6vp/1xabaUj4QKyKxWRmI37N5tlJ/QKgeWuRQut7N8ZtHS7PNslu6MTgt1gGlb6nZ8C3ln5vG0q1e7BBYRy2KqBQ465q+CQh0VYhVuFaaHFbmPYBfQnQLr6vzNGtlWlxctXvHrpZyNb1qvARA0+Cj+v/+oCq5e77hEK796j/vYm1aieJxzvzQSuRpV/Mj/fop2XlSpAOodhwqRtcLHE11OlYtl5iaPs+X9vgHCRDp2MzZj8br3DT/0+ZNv28UIf7QPHZ4lxBExGRzKPVUk72=',
+            'val': 'yJ0aW1lc3RhbXAiOjE0ODgzMjkyOTcyNjYsInByb2ZpbGVJZCI6IjJkYjYyYTM1NjA2NTRjMmM5NjRkZWZjNWUwYWNlMThhIiwicHJvZmlsZU5hbWUiOiJBbmRyZWlNQ1UiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU5ZjNhZWNlNzUxNWQ1YjVhNzk4ODM1ODkzMWI2OGIyNmJhMjVlOTVlZTdhOWE0NWVmYzMzNzUyYTFmIn19fQ==',
             'trail': '',
             'op': 'false',
-            'speech': "Oh shit I'm little!",
+            'speech': "Wtf I'm small!",
             'powers': array(
                 "/buff",
+                "/thru",
                 "/flyspeed <number>",
                 "/fly",
                 "/carryplayer",
@@ -24,7 +25,7 @@
                 "/effect ". @plr ." 5 9999 10 true",
                 "/effect ". @plr ." 10 9999 1 true",
                 "/effect ". @plr ." 21 9999 4 true",
-                "/shot give ". @plr ." plasmablast",
-                "/disguise villager baby"                
+                "/shot give ". @plr ." plasmabeam",
+                "/disguise silverfish"                
             )
         )
